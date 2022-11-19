@@ -1,6 +1,5 @@
 # HTML_Website1
-Using HTML and basic CSS for website.
-www.patika.dev
+Using HTML and basic CSS for <a href="https://www.patika.dev/tr">;Patika</a>'s CSS Project.
 <br>
 ![Home Page](https://user-images.githubusercontent.com/116014855/202847783-68aa8b15-6f1a-475e-b126-3938c0168c18.png)
 <br>

@@ -1,11 +1,11 @@
 # HTML_Website1
 Using HTML and basic CSS for website.
 <br>
-![Home page1](https://user-images.githubusercontent.com/116014855/202847576-8810a3d1-8eef-437f-b475-c2f16d107e74.png)
+![Home Page](https://user-images.githubusercontent.com/116014855/202847783-68aa8b15-6f1a-475e-b126-3938c0168c18.png)
 <br>
 <br>
-![Store Hours Page](https://user-images.githubusercontent.com/116014855/202710327-0a16e11f-3aa6-43f3-b1c5-c536c1062580.png)
+![Store Hours](https://user-images.githubusercontent.com/116014855/202847788-73d206ff-5dcc-4acc-84e5-0ba6fc335712.png)
 <br>
 <br>
-![Contact Us Page](https://user-images.githubusercontent.com/116014855/202710368-196f72ce-3618-4e44-b46c-28577369104b.png)
+![Contact page](https://user-images.githubusercontent.com/116014855/202847800-a2dcf086-c1b5-48b2-9c92-56bbdd824167.png)
 <br>
